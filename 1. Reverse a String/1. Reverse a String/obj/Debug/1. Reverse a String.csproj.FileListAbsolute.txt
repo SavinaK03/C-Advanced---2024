@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Documents\Advanced\Stack and Queue\Lab\1. Reverse a String\1. Reverse a String\bin\Debug\_1.Reverse_a_String.exe.config
+C:\Users\user\OneDrive\Documents\Advanced\Stack and Queue\Lab\1. Reverse a String\1. Reverse a String\bin\Debug\_1.Reverse_a_String.exe
+C:\Users\user\OneDrive\Documents\Advanced\Stack and Queue\Lab\1. Reverse a String\1. Reverse a String\bin\Debug\_1.Reverse_a_String.pdb
+C:\Users\user\OneDrive\Documents\Advanced\Stack and Queue\Lab\1. Reverse a String\1. Reverse a String\obj\Debug\1. Reverse a String.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\Advanced\Stack and Queue\Lab\1. Reverse a String\1. Reverse a String\obj\Debug\1. Reverse a String.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\Advanced\Stack and Queue\Lab\1. Reverse a String\1. Reverse a String\obj\Debug\_1.Reverse_a_String.exe
+C:\Users\user\OneDrive\Documents\Advanced\Stack and Queue\Lab\1. Reverse a String\1. Reverse a String\obj\Debug\_1.Reverse_a_String.pdb
